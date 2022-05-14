@@ -1,7 +1,5 @@
 # SoundViz
 
----
-
 ## How
 #### create a new conda environment
 `conda env create -n soundViz -f environment.yml `
@@ -9,8 +7,6 @@
 `conda activate soundViz`
 ### run soundViz
 `python soundViz.py`
-
----
 
 ## Preview
 ![Screenshot](soundviz.png)
